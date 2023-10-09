@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+    height:500px;
+}
+.container{
+    font-family: Montserrat;
+    display:grid;
+    grid-template-columns:75% 25%;
+    gap: 20px;
+    
+}
+.content{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    padding:25px 25px 25px 25px;
+
+}
+.yellow{
+    border-radius: 10px;
+    font-family: Montserrat;
+    color:white;
+    text-align:center;
+    background-color: #FAD02CE5;
+    width: 356px;
+    height: 384px;
+    padding: 25px 25px 25px 25px;
+
+}
